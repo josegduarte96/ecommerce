@@ -1,0 +1,9 @@
+body, html, #app{
+    font-family: 'Kumbh Sans', sans-serif;
+  }
+  ::-webkit-scrollbar {
+      display: none;
+  }
+
+
+@import '../../node_modules/bootstrap/scss/bootstrap.scss'
